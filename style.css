@@ -1,0 +1,45 @@
+
+body {
+  font-size: 1em;
+  background-color: #e0c97e;
+
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+img {
+  width:2em;
+  height: 2em;
+}
+
+button {
+  font-size: 1.5em;
+
+}
+div {
+  margin-right: 50px;
+}
+
+div.countries {
+  display:flex;
+  flex-direction: column;
+
+}
+
+div.countries input {
+  border: solid;
+  margin-bottom: 5px;
+}
+
+
+div.us {
+  display: flex;
+}
