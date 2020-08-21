@@ -8,7 +8,6 @@ This page connects to an API to get the current exchange rate between the USD an
 South African Currencies. I choose to only get the currency on the page loading/refreshing due to the limitation in calls
 that I have with the free membership of the API that I have. This is for test purposes only
 
-Don't forget to add that api.txt to git ignore
 
 Future Dev:
 -I would have much rather preferred to call the getCurrentExchange and updateDisplay seperately in the init function
